@@ -35,7 +35,7 @@ const services = [
     price: "$260+",
     rating: "5.0",
     image:
-      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=900&q=90",
+      "https://images.unsplash.com/photo-1519699047748-de8e457a634e?auto=format&fit=crop&w=900&q=90",
     desc: "Our signature dimensional color service combines hand-painted balayage with a customized gloss. Every tone is carefully selected to complement your complexion and create a natural, luminous finish.",
     features: [
       "Color consultation",
@@ -51,7 +51,7 @@ const services = [
     price: "$75",
     rating: "4.9",
     image:
-      "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?auto=format&fit=crop&w=900&q=90",
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=900&q=90",
     desc: "A restorative scalp and hair ritual designed to refresh buildup, improve scalp comfort, and restore softness and shine. Perfect for clients looking for a relaxing wellness-focused experience.",
     features: [
       "Scalp analysis",
@@ -67,7 +67,7 @@ const services = [
     price: "$180",
     rating: "4.8",
     image:
-      "https://images.unsplash.com/photo-1560869713-da86a9ec032a?auto=format&fit=crop&w=900&q=90",
+      "https://images.unsplash.com/photo-1527799820374-dcf8b2d4b8c5?auto=format&fit=crop&w=900&q=90",
     desc: "Transform your hair with a smoothing and strengthening treatment designed to reduce frizz, enhance shine, and create a silky, polished finish while maintaining natural movement.",
     features: [
       "Hair assessment",
@@ -83,7 +83,7 @@ const services = [
     price: "$320+",
     rating: "4.9",
     image:
-      "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=900&q=90",
+      "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&w=900&q=90",
     desc: "Premium hair extensions customized for length, volume, and color. Our specialists carefully match your natural hair to create a seamless and comfortable result.",
     features: [
       "Extension consultation",
