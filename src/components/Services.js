@@ -61,22 +61,6 @@ const services = [
     ],
   },
   {
-    name: "Silk Press & Keratin Care",
-    category: "Smoothing",
-    duration: "120 min",
-    price: "$180",
-    rating: "4.8",
-    image:
-      "https://images.unsplash.com/photo-1527799820374-dcf8b2d4b8c5?auto=format&fit=crop&w=900&q=90",
-    desc: "Transform your hair with a smoothing and strengthening treatment designed to reduce frizz, enhance shine, and create a silky, polished finish while maintaining natural movement.",
-    features: [
-      "Hair assessment",
-      "Keratin treatment",
-      "Heat protection",
-      "Silk press finish",
-    ],
-  },
-  {
     name: "Luxury Hair Extensions",
     category: "Extensions",
     duration: "150 min",
